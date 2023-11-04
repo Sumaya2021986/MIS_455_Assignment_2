@@ -1,0 +1,22 @@
+body{
+    padding-left: 600px;
+    padding-top: 20px;
+    background-image: url('./images/curve.png'); /* Replace 'your-background-image.jpg' with the actual image file path */
+    background-size: cover; /* This ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Keeps the image fixed in place as you scroll */
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.nameBox {
+    margin-left: 66px;
+}
+
+.date {
+    margin-left: 74px;
+}
+
+.guestNum{
+    margin-left: 17px;
+
+}
